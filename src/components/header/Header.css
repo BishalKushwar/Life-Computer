@@ -1,0 +1,20 @@
+header {
+   background: linear-gradient(
+    105deg,
+    hsl(216deg 98% 52%) 1%,
+    hsl(313deg 71% 46%) 55%,
+    hsl(348deg 80% 45%) 76%,
+    hsl(12deg 79% 42%) 90%,
+    hsl(3deg 63% 50%) 98%,
+    hsl(354deg 70% 54%) 100%
+  );
+}
+
+button{
+  background: #dc3545;
+}
+
+button:hover{
+  background: #0d6efd;
+}
+
